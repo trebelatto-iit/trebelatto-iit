@@ -3,7 +3,7 @@
 **CS + Data Science @ Illinois Institute of Technology** · Chicago, IL  
 📧 trebelatto@hawk.illinoistech.edu · [LinkedIn](https://www.linkedin.com/in/tomas-rebelatto-aa0b99233)
 
-## Learn more about me at [trebelatto-iit.github.io](https://trebelatto-iit.github.io/)
+### Learn more about me [here!](https://trebelatto-iit.github.io/)
 
 ---
 
